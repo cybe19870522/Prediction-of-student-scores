@@ -34,11 +34,10 @@
 
 ## course.csv 课程信息
 
-序列	包含字段	格式	解释说明	示例
-
-字段1	course	string	脱敏后课程名称，如语文、数学	course1
-
-字段2	course_class	string	脱敏后课程分类，如文科、理科	course_class1
+序列 | 包含字段 | 格式 | 解释说明 | 示例
+:-: | :-: | :-: | :-: | :-:
+字段1 | course | string | 脱敏后课程名称，如语文、数学 | course1
+字段2 | course_class | string | 脱敏后课程分类，如文科、理科 | course_class1
 
 ## all_knowledge.csv 知识点信息
 
