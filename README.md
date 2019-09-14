@@ -27,6 +27,12 @@
 ## 二、训练集
 ## student.csv 学生信息
 
+name | 111 | 222 | 333 | 444
+:-: | :-: | :-: | :-: | :-:
+aaa | bbb | ccc | ddd | eee| 
+fff | ggg| hhh | iii | 000|
+
+
 序列	| 包含字段 | 格式 | 解释说明 | 示例
 -
 字段1	student_id	integer	脱敏后的学生独立标识	389253
